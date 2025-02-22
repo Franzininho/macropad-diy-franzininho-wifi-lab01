@@ -1,0 +1,19 @@
+{
+    "OBS": [
+        ["SHIFT", "T"],
+        ["SHIFT", "1"],  
+        ["SHIFT", "2"],
+        ["SHIFT","P"],   
+        ["SHIFT", "R"],
+        ["SHIFT", "S"],
+        
+    ],
+    "Midia": [
+        ["VOLUME_INCREMENT"],
+        ["BRIGHTNESS_DECREMENT"],
+        ["BRIGHTNESS_INCREMENT"],
+        ["VOLUME_DECREMENT"],  
+        ["MUTE"],  
+        ["PLAY_PAUSE"],  
+    ]
+}
